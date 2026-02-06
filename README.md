@@ -28,8 +28,8 @@ HLT
 ## Output:
 <img width="307" height="528" alt="Screenshot 2026-02-06 091049" src="https://github.com/user-attachments/assets/0d443065-e56d-4de4-a20d-09c36604694b" />
 <img width="303" height="549" alt="Screenshot 2026-02-06 091109" src="https://github.com/user-attachments/assets/934c39f3-6841-44ca-90c0-c8dfc0729b1e" />
-![111](https://github.com/user-attachments/assets/539019e6-534d-4e2f-b03f-88aea83efe05)
-
+[![111](https://github.com/user-attachments/assets/539019e6-534d-4e2f-b03f-88aea83efe05)
+](https://github-production-user-asset-6210df.s3.amazonaws.com/208847497/546052177-539019e6-534d-4e2f-b03f-88aea83efe05.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260206T071442Z&X-Amz-Expires=300&X-Amz-Signature=e7afcbf3391affe195fa5c42a949d30b81b7f530650be89487ac6d8ecaf4c289&X-Amz-SignedHeaders=host)
 
 
 
