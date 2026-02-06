@@ -28,7 +28,7 @@ HLT
 ## Output:
 <img width="307" height="528" alt="Screenshot 2026-02-06 091049" src="https://github.com/user-attachments/assets/0d443065-e56d-4de4-a20d-09c36604694b" />
 <img width="303" height="549" alt="Screenshot 2026-02-06 091109" src="https://github.com/user-attachments/assets/934c39f3-6841-44ca-90c0-c8dfc0729b1e" />
-<ing [WhatsApp Image 2026-02-06 at 12 40 36](https://github.com/user-attachments/assets/7467295b-7261-42ee-9bdc-9a4b5723ef0b) />
+![111](https://github.com/user-attachments/assets/539019e6-534d-4e2f-b03f-88aea83efe05)
 
 
 
