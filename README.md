@@ -27,10 +27,9 @@ HLT
 
 ## Output:
 <img width="307" height="528" alt="Screenshot 2026-02-06 091049" src="https://github.com/user-attachments/assets/0d443065-e56d-4de4-a20d-09c36604694b" />
-<img width="651" height="610" alt="Screenshot 2026-02-06 092125" src="https://github.com/user-attachments/assets/7835ea4b-44cf-4e82-b825-3a47fbf43775" />
-
-
 <img width="303" height="549" alt="Screenshot 2026-02-06 091109" src="https://github.com/user-attachments/assets/934c39f3-6841-44ca-90c0-c8dfc0729b1e" />
+![WhatsApp Image 2026-02-06 at 12 40 36](https://github.com/user-attachments/assets/4fb50e5a-f402-41b1-9a3f-451e80571c5d)
+
 
 
 ## Result:
